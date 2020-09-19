@@ -1,5 +1,5 @@
 # BlackIce V
-BlackIce V is the 6th generation of a long line of OpenSource Hardware FPGA boards designed by the myStorm community since 2016. Unlike it's predecessors based on the Ice40 HX range, the 'V' is based on the Lattice 1ce40 UltraPlus up 5K and offers lots of new features like DSP and generous internal SRAM.
+BlackIce V is the 6th generation of a long line of OpenSource Hardware FPGA boards designed by the myStorm community since 2016. Unlike it's predecessors based on the Ice40 HX range, the 'V' is based on the Lattice Ice40 UltraPlus up5K and offers great new features like DSP blocks and generous internal SRAM.
 
 Current status is hardware design, you can see the developments we are making on my regular streams :
 *  [Live Stream, 8pm BST](https://www.twitch.tv/folknology)
